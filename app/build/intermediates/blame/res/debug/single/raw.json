@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\peluitpendek.mp3",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\raw\\peluitpendek.mp3"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\peluitpendek.mp3",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\raw\\peluitpendek.mp3"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\peluitpanjang.mp3",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\raw\\peluitpanjang.mp3"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\raw\\peluitpanjang.mp3",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\raw\\peluitpanjang.mp3"
+    }
+]

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.scoutcode"
+    android:versionCode="3"
+    android:versionName="1.3" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.app.scoutcode.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.app.scoutcode.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/lgsc"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.app.scoutcode.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TentangActivity"
+            android:label="Tentang"
+            android:parentActivityName="com.app.scoutcode.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.MateriActivity"
+            android:label="Translator"
+            android:parentActivityName="com.app.scoutcode.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TranslatorActivity"
+            android:label="Translator"
+            android:parentActivityName="com.app.scoutcode.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSemaphoreActivity"
+            android:label="Translator Semaphore"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TMorseActivity"
+            android:label="Translator Morse"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.tSandiKotakActivity"
+            android:label="Translator Sandi Kotak"
+            android:parentActivityName="com.app.scoutcode.tSandiKotakActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiKotakGandaActivity"
+            android:label="Translator Sandi Kotak Ganda"
+            android:parentActivityName="com.app.scoutcode.TSandiKotakGandaActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiAngkaActivity"
+            android:label="Translator Sandi Angka"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiANActivity"
+            android:label="Translator Sandi AN"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiAZActivity"
+            android:label="Translator Sandi AZ"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiKardinalActivity"
+            android:label="Translator Sandi Kardinal"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiRumputActivity"
+            android:label="Translator Sandi Rumput"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.TSandiInternasionalActivity"
+            android:label="@string/title_activity_tsandi_internasional"
+            android:parentActivityName="com.app.scoutcode.TranslatorActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TranslatorActivity" />
+        </activity>
+        <activity android:name="com.app.scoutcode.MasukActivity" />
+        <activity android:name="com.app.scoutcode.DaftarActivity" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.app.scoutcode.LatihanActivity"
+            android:label="Latihan"
+            android:parentActivityName="com.app.scoutcode.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.DetailMateriActivity"
+            android:label="Materi"
+            android:parentActivityName="com.app.scoutcode.MateriActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MateriActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.LevelLatihanActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.app.scoutcode.LatihanActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LatihanActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.PreLatihanActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.app.scoutcode.LevelLatihanActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LevelLatihanActivity" />
+        </activity>
+        <activity
+            android:name="com.app.scoutcode.KerjakanLatihanActivity"
+            android:label="Latihan"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.app.scoutcode.ProfilActivity"
+            android:label="Profil" />
+        <activity
+            android:name="com.app.scoutcode.GradeActivity"
+            android:label="Point Grade"
+            android:parentActivityName="com.app.scoutcode.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.app.scoutcode" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.app.scoutcode.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

@@ -1,0 +1,1038 @@
+[
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakp.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_m.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_m.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakz.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakz.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaks2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaks2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_b.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_b.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_skotakganda2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_skotakganda2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakb.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakb.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_awal.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_awal.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_b.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_b.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotake.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotake.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_skotak1.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_skotak1.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_z.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_z.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji3.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji3.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_m.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_m.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scadit.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\scadit.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_latihan.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_menu_latihan.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakx.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakx.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spasi.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\spasi.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotako.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotako.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_o.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_o.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakz2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakz2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakm.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakm.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_skardinal.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_skardinal.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_black.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\coin_black.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_awal.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_awal.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_x.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_x.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_morse.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_morse.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakd.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakd.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_x.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_x.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaky.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaky.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakt2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakt2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_swap_horiz.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_swap_horiz.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglatihan.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bglatihan.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_sinternasional.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_sinternasional.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakf.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakf.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakv.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakv.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakr.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakr.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakc.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakc.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_t.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_t.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakl.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakl.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaki.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaki.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaku2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaku2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_t.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_t.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_z.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_z.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_k.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_k.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_q.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_q.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji1.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji1.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_k.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_k.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_q.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_q.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_angka.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_angka.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sciqbal.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sciqbal.jpg"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaky2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaky2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logout.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_srumput.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_srumput.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgtranslator.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bgtranslator.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakv2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakv2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaku.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaku.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_semaphore.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_semaphore.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_saz.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_saz.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_i.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_i.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_san.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_san.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakj.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakj.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakr.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakr.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakt2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakt2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_u.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_u.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_white.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\coin_white.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_u.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_u.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakk.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakk.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_j.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_j.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_d.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_d.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakg.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakg.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_p.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_p.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_v.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_v.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_j.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_j.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaka.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaka.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakw.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakw.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotake.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotake.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_d.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_d.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakh.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakh.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scyudha.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\scyudha.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakb.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakb.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logout.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_o.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_o.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_i.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_i.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgmateri.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bgmateri.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_p.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_p.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_v.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_v.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spasi.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\spasi.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakx2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakx2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_c.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_c.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sciman.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sciman.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sampul.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sampul.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titik.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\titik.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakn.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakn.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titik.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\titik.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakt.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakt.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakq.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakq.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakz.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakz.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_y.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_y.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgmateri.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bgmateri.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_login.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakd.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakd.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaky.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaky.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_l.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_l.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakc.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakc.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotako.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotako.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_y.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_y.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_skotakganda1.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_skotakganda1.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_c.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_c.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_latihan.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_menu_latihan.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgtranslator.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bgtranslator.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_l.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_l.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scadit.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\scadit.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_a.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_a.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lgsc.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\lgsc.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakw2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakw2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaka.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaka.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_a.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_a.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakm.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakm.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaks.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaks.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_angka.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_angka.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_login.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_w.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_w.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakl.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakl.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakp.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakp.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakx.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakx.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sciqbal.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sciqbal.jpg"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaku2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaku2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\card.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji1.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji1.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_w.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_w.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakf.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakf.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_e.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_e.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_n.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_n.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_e.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_e.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_h.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_h.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_n.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_n.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakv2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakv2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_h.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_h.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lgsc.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\lgsc.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakh.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakh.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strip.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\strip.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_s.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_s.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_s.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_s.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_g.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_g.gif"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakt.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakt.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_g.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_g.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakv.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakv.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakk.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakk.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaks.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaks.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_f.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_f.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sciman.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sciman.jpg"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaki.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaki.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakz2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakz2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaks2.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaks2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_f.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_f.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakw2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakw2.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_r.gif",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_r.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakg.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakg.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaku.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaku.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sem_r.gif",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sem_r.gif"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bglatihan.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\bglatihan.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strip.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\strip.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakj.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakj.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emoji3.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\emoji3.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakx2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakx2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_black.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\coin_black.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coin_white.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\coin_white.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakq.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakq.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sampul.jpg",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\sampul.jpg"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotaky2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotaky2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materi_skotak2.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\materi_skotak2.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakw.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakw.png"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scyudha.jpg",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\scyudha.jpg"
+    },
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kotakn.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\kotakn.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_swap_horiz.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\drawable\\ic_swap_horiz.png"
+    }
+]

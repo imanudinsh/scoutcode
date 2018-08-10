@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scout Code</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_input">Masukan text disini</string>
+    <string name="action_grade">Grade</string>
+    <string name="facebook_app_id">1545246625774131</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9385526466975115/7526362582</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tsandi_internasional">Translator Sandi Internasional</string>
+
+</resources>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.6.0_e7b3e84d0965b157738453c19dc0eebc033fe8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.0_7b8470792815bd9806d9a41a25dcf3c9ab18890e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.0_efe052a590e7ef01a6af62a1fcf2e2d23b74026f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.6.0_65e02d3abe4d5cec85c8c06fa658a2bca3f1517a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d334e120fca1698904c8c0c8611e18d43307afd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_f2ed4a4ce4fc6fc59d9a9430c136fc6cf839a733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.balysv-material-ripple-1.0.2_5f525133d664dcaee8375e2229ed90175c46ccdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_98bdcde44d9d829318f55cbcfa8addda8fa49f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_3a7fc60beb01f244189494e3322de3b8443bb8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_fb5c45926ae0c115fb0f5259337b3d5681d3879a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.0_5c1019817a79ffa696f3f1197278f3dd61c57ce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_3910bb5c212dff0037da9d42517fcc6bda55a4c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.6.0_7148b9825920ae7de0a76e7bf0872ec750bf6d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.0_c35070bd669714a9ab2ea4a39e617c41693c3dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="897400f08e8b3f5e290a5da388973f7cfe700965">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.2.0_810f9573e584714a5b4ac015781f5cd9594b4434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.6.0_34647d6f7f54f8d76d6f285055ddd1764cd44d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\IM\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_e06164fcafc7ab27b8f3b9409d94c7b97d5fa88e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_477c99e1aaafe1e5de1b6df8988e04cb43c08aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.0_6e7a9308045a359c70ceae34b5fa6ed9e5dd9f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_2a7e150277ba9bfa3f6585a44655a8e52a54132f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.3.0_97b70650f8fa8708866825b751d9cc228056dfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.0_6e1a3ad40adc840bd1b9d59cdc7295c79ad730f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.0.0_8262fe86a87619fcc68a5929002fddc3cb91abe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\Project\ScoutCode\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="E:\android\Project\ScoutCode\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.0_180ad6b3fac6de6354b18320f206135d29cdce45.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\android\\Project\\ScoutCode\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

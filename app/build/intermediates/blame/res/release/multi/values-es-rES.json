@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "E:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\values-es-rES\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 61,
+                        "endOffset": 242
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "D:\\android\\Project\\ScoutCode\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.0.0\\res\\values-es-rES\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 61,
+                        "endOffset": 242
+                    }
+                }
+            }
+        ]
+    }
+]
